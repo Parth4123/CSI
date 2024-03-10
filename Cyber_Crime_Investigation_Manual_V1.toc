@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}\textbf {Recovery of Hacking Instagram Accounts}}{1}{section.1}%
+\contentsline {section}{\numberline {2}\textbf {Recovery of Hacked Facebook Accounts}}{1}{section.2}%
+\contentsline {section}{\numberline {3}\textbf {Telegram Investigation}}{1}{section.3}%
+\contentsline {section}{\numberline {4}\textbf {Investigation of Fraud Website}}{1}{section.4}%
+\contentsline {subsection}{\numberline {4.1}\textbf {Website registration details investigation}}{1}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}\textbf {Website History Investigation}}{2}{subsection.4.2}%
+\contentsline {section}{\numberline {5}\textbf {Investigation For Phishing and Fraudulent websites}}{3}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Step1:}{3}{subsection.5.1}%
